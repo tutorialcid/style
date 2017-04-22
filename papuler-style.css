@@ -1,0 +1,15 @@
+.popular-posts ul{padding-left:0px;}
+.popular-posts ul li {
+background: url("http://4.bp.blogspot.com/-7CHpNrL3BIY/UQFD2sPq6LI/AAAAAAAAI8E/Jibvq813XCE/s400/33.gif") no-repeat scroll 5px 8px rgb(255, 255, 255);
+list-style-type: none;
+margin: 0px 0px 5px;
+padding: 5px 5px 5px 20px !important;
+border: 1px solid #dddddd;
+border-radius: 10px 10px 10px 10px;
+}
+.popular-posts ul li:hover {
+border:1px solid #666666;
+}
+.popular-posts ul li a:hover {
+text-decoration:none;
+}
